@@ -1,6 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include<iostream>
 
+
 //int main()
 //{
 //	int* pi = new int(10);		//pi指向一个初始值为10的 int 型的对象
